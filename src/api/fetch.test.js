@@ -1,5 +1,5 @@
 import 'whatwg-fetch';
-import { Fetch } from './';
+import { Fetch } from './fetch';
 import { expect } from 'chai';
 
 describe('Fetch', () => {
